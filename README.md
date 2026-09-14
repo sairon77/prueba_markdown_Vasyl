@@ -11,4 +11,4 @@ _qqqqq_
 
 ```print ("Hello W0rld") ```
 
-![Ganar 100 EUROS!!!](https://raec.rocklinusd.org/documents/gradportfoliofiles/standard%20application.pdf)
+[Ganar 100 EUROS!!!](https://raec.rocklinusd.org/documents/gradportfoliofiles/standard%20application.pdf)
